@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tentando ser um desenvolvedor Front-end 😄<br>💻 HTML - CSS - SASS - TAILWIND - JAVASCRIPT<br>📖 REACT - TYPESCRIPT
+💻 HTML - CSS - SASS - TAILWIND - JAVASCRIPT<br>📖 REACT - TYPESCRIPT
 
 
 # 💻 Tech Stack:
