@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 HTML - CSS - SASS - TAILWIND - JAVASCRIPT<br>📖 REACT - TYPESCRIPT
+💻 HTML - CSS - SASS - TAILWIND - JAVASCRIPT<br>📖 TYPESCRIPT - ANGULAR 
 
 
 # 💻 Tech Stack:
