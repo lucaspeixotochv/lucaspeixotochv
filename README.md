@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Me chamo Lucas Peixoto, natural de Brasília, DF. Trabalhei como Desenvolvedor Full Stack, usando tecnologias como Angular, NestJS e Ionic. Atualmente trabalho como desenvolvedor back-end, utilizando .NET e ASP.NET</p>
+<p align="left">Me chamo Lucas Peixoto, natural de Brasília, DF. Trabalhei como Desenvolvedor Full Stack, usando tecnologias como Angular, NestJS e Ionic. Atualmente, trabalho como desenvolvedor back-end, utilizando .NET e ASP.NET. Além disso, estou cursando Engenharia de Software.</p>
 
 ###
 
