@@ -33,6 +33,4 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/lucaspeixotochv/lucaspeixotochv/output/pacman-contribution-graph.svg" />
-
 ###
